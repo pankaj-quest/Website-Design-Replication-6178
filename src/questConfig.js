@@ -1,0 +1,8 @@
+export default {
+  QUEST_ONBOARDING_QUESTID: 'c-greta-onboarding',
+  USER_ID: 'u-2ad602bf-9d52-47a2-8689-b8b8c6aec936',
+  APIKEY: 'k-f62f0635-077d-4994-90ad-cc159cca2809',
+  TOKEN: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1LTJhZDYwMmJmLTlkNTItNDdhMi04Njg5LWI4YjhjNmFlYzkzNiIsImlhdCI6MTc1MDI5OTc0MywiZXhwIjoxNzUyODkxNzQzfQ.LSmpXP2JuovwSC4jpfMgcMvs093el9M-t6SNcYwy0g4',
+  ENTITYID: 'e-042b4178-967b-41df-8fb0-14d25010284c',
+  PRIMARY_COLOR: '#111827'
+};
